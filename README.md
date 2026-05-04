@@ -3,12 +3,13 @@
 <h1 align="center" > <img style="width: 40px;" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />, I'm Nguyễn Duy Hiện</h1>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=52&lines=Frontend+Developer"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=52&background=FFFFFF&lines=Frontend+Developer"
   width="500"
   height="52"
   decoding="async"
   fetchpriority="high"
   alt="Frontend Developer"
+  style="background-color: #ffffff!important;"
 />
 
 </div>
